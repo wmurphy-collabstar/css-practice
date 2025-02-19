@@ -15,4 +15,6 @@ div {
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+    width: 50%;
+    margin: 0 auto;
 }
