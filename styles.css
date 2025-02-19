@@ -1,3 +1,4 @@
+/* Exercise #1
 p {
     background-color: green; 
     color: white; 
@@ -16,4 +17,40 @@ div {
     text-align: center;
     font-weight: bold;
     text-align: center;
+} */
+
+/* Exercise #2 */
+
+p.salmon {
+    background-color: salmon;
+    font-family: sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.btn-standard{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
+
+#black-n-white {
+    background-color: black;
+    color: white;
+}
+
+#yellow {
+    background-color: yellow;
 }
